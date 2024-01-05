@@ -1,0 +1,25 @@
+# Copy and paste this into your main setting json file for Windows Terminal.
+
+{
+   "background": "#FFEA00",
+   "black": "#000000",
+   "blue": "#0000FF",
+   "brightBlack": "#000000",
+   "brightBlue": "#00B5FF",
+   "brightCyan": "#00FFFF",
+   "brightGreen": "#00FF00",
+   "brightPurple": "#FF00FF",
+   "brightRed": "#FF0000",
+   "brightWhite": "#000000",
+   "brightYellow": "#FF00FB",
+   "cursorColor": "#000000",
+   "cyan": "#00ffff",
+   "foreground": "#000000",
+   "green": "#00FF00",
+   "name": "CyberPunkYellow",
+   "purple": "#8c00ff",
+   "red": "#ff0000",
+   "selectionBackground": "#FFFFFF",
+   "white": "#000000",
+   "yellow": "#FF00FB"
+},
